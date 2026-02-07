@@ -1,0 +1,13 @@
+[general]
+name=Spatial Clustering
+description=Spatial clustering with optional spatial weights and threading
+about=Spatial clustering tool using PyQGIS with support for spatial weights (Queen/Rook/kNN) and QgsTask threading
+version=1.0.0
+qgisMinimumVersion=3.22
+author=Afan Mahardika
+email=afanraymahardika@gmail.com
+homepage=https://github.com/afanray/spatial-clustering
+repository=https://github.com/afanray/spatial-clustering
+tracker=https://github.com/afanray/spatial-clustering/issues
+category=Analysis
+icon=icon.png
