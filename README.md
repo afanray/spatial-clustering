@@ -1,3 +1,3 @@
 ## License
 
-This project is licensed under the APACHE License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the LICENCE file for details.
